@@ -1,0 +1,29 @@
+{
+  "name": "socket-chat-example",
+  "version": "1.0.0",
+  "description": "my first socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GZanon/chatApp.git"
+  },
+  "keywords": [
+    "Arduino",
+    "Node.js",
+    "Socket.io"
+  ],
+  "author": "giovane zanon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GZanon/chatApp/issues"
+  },
+  "homepage": "https://github.com/GZanon/chatApp#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "johnny-five": "^0.10.0",
+    "socket.io": "^1.4.8"
+  }
+}
